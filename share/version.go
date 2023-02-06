@@ -6,4 +6,4 @@ package chshare
 //mismatch.
 var ProtocolVersion = "xqk-v3"
 
-var BuildVersion = "0.0.0-src"
+var BuildVersion = "v1.8.4"
