@@ -28,7 +28,9 @@ var help = `
     client - runs chisel in client mode
 
   Read more:
-    https://github.com/jpillora/chisel
+    https://github.com/xqk/chisel
+
+  注意：此chisel的协议头为xqk-v3 不是原程序chisel-v3，所以与原chisel不通用，这样是为了避免被电信拦截
 
 `
 
